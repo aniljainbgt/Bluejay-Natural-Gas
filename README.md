@@ -19,11 +19,12 @@ Before the big meeting, Julie wants to be thoroughly prepared to answer all the 
 1. The model should list the given financial information for all potential parties.
 2. The model should associate with each proposed project a cell that is 1 if the project is approved, 0 if not approved. 
 3. Each functional area wants as many of its projects to be approved as possible, but it certainly does not want to be shut out altogether. 
-   - The model should indicate each of the following: the number of approved projects for each function area and whether each function area gets at least one approved project. 
-   - The latter should be indicated by a 0/1 value: 0 if the function area is shut out, 1 if it gets at least one project approved. 
+   * The model should indicate each of the following:
+      - the number of approved projects for each function area and whether each function area gets at least one approved project. 
+      - The latter should be indicated by a 0/1 value: 0 if the function area is shut out, 1 if it gets at least one project approved. 
 4. The model should find the sum of capital expenditures for all approved projects, both by year and by the total over all three years. 
-   - It should address Cordelia's concerns by indicating whether the total for all three years exceeds $10 billion and, for each year, whether that year's total expenditures exceed $4 billion. 
-   - As in the previous direction, these should be indicated by 0/1 values. 
+   * It should address Cordelia's concerns by indicating whether the total for all three years exceeds $10 billion and, for each year, whether that year's total expenditures exceed $4 billion. 
+   * As in the previous direction, these should be indicated by 0/1 values. 
 5. The model should find the sum of capital expenditures for all approved projects, by year, for each functional area.
 6. Recognizing that the NPVs in the attached spreadsheet are probably optimistic estimates, the model should include another input, the possible percentage decrease in each original NPV. Then there should be a new NPV column that reflects this percentage decrease. 
 7. The model should list the ROI (Return on investment) for each project, defined as the NPV as a percentage of the total capital expenditure for the project. 
@@ -37,9 +38,8 @@ Before the big meeting, Julie wants to be thoroughly prepared to answer all the 
 ## Questions to be answered
 
    ![image](https://github.com/user-attachments/assets/95f5bb79-d0a0-4f51-9dd5-587ce5837db1)
-
-
-   ![image](https://github.com/user-attachments/assets/35c48c59-eb07-4286-851d-7d6d450a0d7c)
+   
+   ![image](https://github.com/user-attachments/assets/b8941cf0-286b-4961-91a0-f5373d83b1b4)
    ![image](https://github.com/user-attachments/assets/e16b51ee-883c-4bd5-ad4a-cae00f964829)
 
 ## Dashboard
