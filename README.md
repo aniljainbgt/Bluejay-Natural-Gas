@@ -12,6 +12,8 @@ The table of financial estimates for potential projects (in millions of dollars)
 
 Cordelia has stated in no uncertain terms that the total of capital expenditures for the approved projects can be no more than $10 billion and that no more than $4 billion should be spent in any single year. Unfortunately, the capital expenditures for the potential list of projects is well over $10 billion, so Julie knows that not all of these promising projects will be approved.
 
+## Preparation
+
 Before the big meeting, Julie wants to be thoroughly prepared to answer all the questions she knows she will be asked by the CEO, the functional heads, and other interested parties. As a first step, she wants to develop an Excel spreadsheet model including the following information. Check off each item as you incorporate it into the model.
 
 1. The model should list the given financial information for all potential parties.
@@ -31,6 +33,8 @@ Before the big meeting, Julie wants to be thoroughly prepared to answer all the 
    - The outputs in the data table should be the ROIs of undertaken projects: the average; the minimum; and the maximum. 
    - Of course, the results in this data table should update automatically if the 0/1 values in the second bullet are changed. 
 9. The model should be accompanied by a line chart of total capital expenditures for all approved projects by year and a separate such line chart for each functional area.
+
+## Questions to be answered
 
    ![image](https://github.com/user-attachments/assets/95f5bb79-d0a0-4f51-9dd5-587ce5837db1)
 
