@@ -43,6 +43,7 @@ For the solution of the above, refer to the ***Bluejay_Natural_Gas_Preliminary_P
    ![image](https://github.com/user-attachments/assets/b8941cf0-286b-4961-91a0-f5373d83b1b4)
    ![image](https://github.com/user-attachments/assets/e16b51ee-883c-4bd5-ad4a-cae00f964829)
 
-For the this part of the solution refer to the 
+For the solution of the above Part I and Part II refer to the ***Final Requirements & Solutions.xlsx***
+
 ## Dashboard
 <img src="Images/Blue Natural Gas-Charts.png">
