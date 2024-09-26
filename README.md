@@ -32,5 +32,9 @@ Before the big meeting, Julie wants to be thoroughly prepared to answer all the 
    - Of course, the results in this data table should update automatically if the 0/1 values in the second bullet are changed. 
 9. The model should be accompanied by a line chart of total capital expenditures for all approved projects by year and a separate such line chart for each functional area.
 
+![image](https://github.com/user-attachments/assets/95f5bb79-d0a0-4f51-9dd5-587ce5837db1)
 
+
+![image](https://github.com/user-attachments/assets/35c48c59-eb07-4286-851d-7d6d450a0d7c)
+![image](https://github.com/user-attachments/assets/e16b51ee-883c-4bd5-ad4a-cae00f964829)
 
