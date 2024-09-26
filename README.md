@@ -43,4 +43,4 @@ Before the big meeting, Julie wants to be thoroughly prepared to answer all the 
    ![image](https://github.com/user-attachments/assets/e16b51ee-883c-4bd5-ad4a-cae00f964829)
 
 ## Dashboard
-<img src="Images/Blue Gas Natural-Charts.png">
+<img src="Images/Blue Natural Gas-Charts.png">
