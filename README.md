@@ -45,5 +45,14 @@ For the solution of the above, refer to the ***Bluejay Natural Gas Preliminary P
 
 For the solution of the above Part I and Part II refer to the ***Final Requirements & Solutions.xlsx***
 
+### Skills Used in Excel
+- Formating
+- Conditional Formating
+- Data Visualization
+  - Column Chart
+- Formulas (SUMPRODUCT, IF, AVERAGE, MIN, MAX)
+- WHAT-IF Analysis - Data Table
+- Linear Programming model for Resource Assigment
+- Solver
 ## Dashboard
 <img src="Images/Blue Natural Gas-Charts.png">
